@@ -1,0 +1,8 @@
+{
+  "name": "Text Creator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "00310ac7"
+}
